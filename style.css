@@ -1,0 +1,251 @@
+#nuv{
+    background-color: green;
+    
+    display: flex;
+    gap: 13%;
+    height: 60px;
+    width: 1210px;
+}
+#line2{
+    display: flex;
+    gap: 10%;
+}
+#Inspiration{
+    display: flex;
+    
+
+}
+#orchid{
+    display: flex;
+    gap: 9%;
+}
+#line1{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+
+}
+#sales{
+    display: flex;
+    gap: 14%;
+}
+#s1{
+    display: flex;
+
+}
+#s2{
+    display: flex;
+
+}
+#s3{
+    display: flex;
+
+}
+#plants{
+    display: flex;
+}
+#line2{
+    display: flex;
+    justify-content: center;
+    gap: 7%;
+}
+#Featured{
+    display: flex;
+    justify-content: center;
+}
+#line3{
+    display: flex;
+    justify-content: center;
+    gap: 4%;
+}
+#line4{
+    display: flex;
+    justify-content: center;
+}
+#liv{
+    display: flex;
+    justify-content: center;
+}
+#line5{
+    background-image: url(media/leaves.jpg);
+}
+#line7{
+    display: flex;
+    justify-content: center;
+    gap: 8%;
+}
+#line8{
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+#pots{
+    width: 600px;
+}
+#line9{
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+#line10{
+    display: flex;
+    justify-content: center;
+}
+#media1{
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+}
+#good{
+    display: flex;
+    justify-content: center;
+}
+#last{
+    display: flex;
+    justify-content: center;
+    gap: 19%;
+}
+@media screen and (max-width: 650px){
+    body{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        font-size: larger;
+        text-align: center;
+        
+    }
+    #nuv{
+        background-color: green;
+        
+        
+        gap: 4%;
+        height: 45px;  
+        width: 380px;
+        margin-left: 3%;
+        
+    
+}
+#line2{
+flex-wrap: wrap;
+margin-right: 3%;
+
+
+}
+#line1{
+   display: grid;
+   grid-template-columns: 1 1fr;
+   margin-left: 1%;
+
+}
+#Inspiration{
+    
+    gap: 4%;
+    margin-right: 20%;
+    
+
+}
+#last{
+    display: grid;
+    grid-template-columns: 1 1fr;
+    margin-left: 2%;
+    
+    
+}
+#media1{
+   display: grid; 
+   grid-template-columns: 1 1fr;
+    
+    
+}
+#sales{
+   flex-wrap: wrap;
+   
+   margin-left: 20%;
+    
+}
+#line3{
+    display: grid;
+    grid-template-columns: 1 1fr;
+    margin-left: 1%;
+}
+#line7{
+    flex-wrap: wrap;
+}
+#line2{
+    margin-left: 0%;
+    gap: 10%;
+}
+#pots{
+    width: 200px;
+    height: 300px;
+}
+#line8{
+   
+   gap: 4%;
+}
+#orchid{
+   
+   margin-left: 10%;
+}
+#s1{
+    flex-wrap: wrap;
+
+}
+#s2{
+    flex-wrap: wrap;
+
+}
+#s3{
+    flex-wrap: wrap;
+    
+
+}
+#plants{
+    flex-wrap: wrap;
+    margin-left: 17%;
+}
+#line2{
+    flex-wrap: wrap;
+    
+    gap: 7%;
+}
+#Featured{
+    flex-wrap: wrap;
+}
+#liv{
+    flex-wrap: wrap;
+}
+#good{
+    
+    margin-left: 1%;
+}
+#media1{
+    flex-wrap: wrap;
+}
+#line5{
+    background-image: url(media/leaves.jpg);
+    width: 300px;
+    margin-left: 20%;
+}
+#line10{
+    flex-wrap: wrap;
+    margin-left: 20%;
+}
+#line9{
+    flex-wrap: wrap;
+    
+}
+#mediapng{
+    width: 30px;
+}
+.img1{
+width: 100px;
+}
+#lat{
+    font-size: small;
+    margin-left: 25%;
+}
+.h1{
+font-size: medium;
+}
+}
